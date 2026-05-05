@@ -9,16 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kyungmin-lee-833b82288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kyungmin%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://shumin.co.kr/">
-    <img src="https://img.shields.io/badge/Blog-shumin.co.kr-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:km.hero.lee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=shumin215&style=for-the-badge&color=06B6D4" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shumin215?style=flat-square&logo=github&label=Followers&color=1D4ED8" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/shumin215?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=06B6D4" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=shumin215&style=flat-square&color=0F766E" alt="Profile views" />
 </p>
 
 ---
@@ -91,13 +84,21 @@ Technical Writing       [#########......]
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shumin215&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shumin215&theme=transparent&hide_border=true" alt="GitHub streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shumin215&theme=github_dark" alt="GitHub stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shumin215&theme=github_dark&utcOffset=9" alt="Productive time" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shumin215&theme=github_dark" alt="GitHub profile summary" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shumin215&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
 </p>
+
+---
+
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shumin215/shumin215/output/github-snake.svg" alt="GitHub contribution snake animation" width="100%" />
@@ -105,17 +106,17 @@ Technical Writing       [#########......]
 
 ---
 
-## Connect
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kyungmin-lee-833b82288/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kyungmin%20Lee-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://shumin.co.kr/">
-    <img src="https://img.shields.io/badge/Blog-Read%20More-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-shumin.co.kr-111827?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" />
   </a>
   <a href="mailto:km.hero.lee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-km.hero.lee%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
