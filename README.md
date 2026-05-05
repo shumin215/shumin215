@@ -84,15 +84,6 @@ Technical Writing       [#########......]
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shumin215&theme=github_dark" alt="GitHub stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shumin215&theme=github_dark&utcOffset=9" alt="Productive time" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shumin215&theme=github_dark" alt="GitHub profile summary" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shumin215&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
 </p>
 
